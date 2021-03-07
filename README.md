@@ -39,8 +39,6 @@ A refresh button, which refresh the all page, a save button which save the datas
 
 "File saved"
 
-And as for the offline part, we have first to connect with internet to do the connection with the API and after we can open the app without connection and see the datas.
+And as for the offline part, we have first to connect with internet to do the connection with the API and after we can open the app without connection and see the dat.
 
-! [image] (https://user-images.githubusercontent.com/80207183/110251368-6f03e600-7f80-11eb-9f8b-6527b251d7c8.png)
 ![image](https://user-images.githubusercontent.com/80207183/110251791-71ffd600-7f82-11eb-9e50-b8dcca02f9ff.png)
-
